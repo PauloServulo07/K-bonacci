@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "k_bonacci", "k_bonacci\k_bonacci.csproj", "{4EFE356E-20F3-4CB0-81D9-F4FCA6FBC3E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "k_bonacci.teste", "k_bonacci.teste\k_bonacci.teste.csproj", "{A5F9E233-749D-468A-8670-DF0C3A8C412E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EFE356E-20F3-4CB0-81D9-F4FCA6FBC3E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EFE356E-20F3-4CB0-81D9-F4FCA6FBC3E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EFE356E-20F3-4CB0-81D9-F4FCA6FBC3E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EFE356E-20F3-4CB0-81D9-F4FCA6FBC3E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5F9E233-749D-468A-8670-DF0C3A8C412E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F9E233-749D-468A-8670-DF0C3A8C412E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F9E233-749D-468A-8670-DF0C3A8C412E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F9E233-749D-468A-8670-DF0C3A8C412E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9D530DD-9ACC-4422-B781-9F865D423ED7}
+	EndGlobalSection
+EndGlobal
